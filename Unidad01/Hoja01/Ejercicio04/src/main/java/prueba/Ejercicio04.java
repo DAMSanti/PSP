@@ -14,7 +14,6 @@ public class Ejercicio04 {
         } catch (Exception ex) {
             System.err.println("Excepción de E/S!!");
             System.exit(-1);
-
         }
     }
 }
