@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a43c50-31aa-4e5e-9dfa-44ab15da57bd" name="Changes" comment="" />
+    <list default="true" id="b4a43c50-31aa-4e5e-9dfa-44ab15da57bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio07-2/src/main/java/prueba/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio07-2/src/main/java/prueba/ProcesoHijo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio01/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio01/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio02/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio02/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio03/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio03/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio04/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio05/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio05/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio07/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio07/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio07/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +56,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Usuarios/DAM2/IdeaProjects/AD/Unidad01/Hoja02/Ejercicio01",
+    "last_opened_file_path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad01/Ejercicio07",
     "onboarding.tips.debug.path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad01/Ejercicio06/src/main/java/prueba/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Ejercicio06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Ejercicio06" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
