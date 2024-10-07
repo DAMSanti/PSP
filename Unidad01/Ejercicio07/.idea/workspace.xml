@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17e685b5-e6ca-4a7c-9d1b-a787db52748f" name="Changes" comment="" />
+    <list default="true" id="17e685b5-e6ca-4a7c-9d1b-a787db52748f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hoja01/Ejercicio01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoja01/Ejercicio01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoja01/Ejercicio01/src/main/java/prueba/Ejercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoja01/Ejercicio01/src/main/java/prueba/Ejercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoja01/Ejercicio02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoja01/Ejercicio02/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -41,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Tareas/DAM2/AD/Unidad01/Hoja03/Ejercicio02"
+    "last_opened_file_path": "G:/Tareas/DAM2/PSP/Unidad01/Ejercicio07"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
