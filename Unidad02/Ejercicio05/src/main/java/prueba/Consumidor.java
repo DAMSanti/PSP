@@ -1,14 +1,14 @@
-package org.example;
+package prueba;
 
 import java.util.concurrent.Semaphore;
 
-class Productor implements Runnable {
+class Consumidor implements Runnable {
     private final Cola cola;
     private Semaphore produce;
     private Semaphore consume;
     private Semaphore mutex;
 
-    public Productor(Cola cola, Semaphore produce, Semaphore consume, Semaphore mutex) {
+    public Consumidor(Cola cola, Semaphore produce, Semaphore consume, Semaphore mutex) {
         this.cola = cola;
         this.produce = produce;
         this.consume = consume;
@@ -17,16 +17,16 @@ class Productor implements Runnable {
 
     @Override
     public void run() {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 8; i++) {
             try {
-                produce.acquire();
+                consume.acquire();
                 mutex.acquire();
-                cola.producir();
+                cola.consumir();
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
             } finally {
                 mutex.release();
-                consume.release();
+                produce.release();
             }
         }
     }

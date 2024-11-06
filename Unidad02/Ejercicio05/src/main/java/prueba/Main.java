@@ -1,10 +1,12 @@
-package org.example;
+package prueba;
 
 import java.util.concurrent.Semaphore;
 
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Cola cola = new Cola(1);
+        Cola cola = new Cola();
         Semaphore produce = new Semaphore(1);
         Semaphore consume = new Semaphore(0);
         Semaphore mutex = new Semaphore(1);
