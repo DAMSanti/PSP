@@ -1,8 +1,5 @@
 package prueba;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Cola {
     private String texto;
 
