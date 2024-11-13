@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ea3ab4f-caab-4d62-9578-4c7a66ebff36" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/Departamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/Empleado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/EmpleadoEstudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/EmpleadoEstudioId.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/Estudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/java/prueba/models/Sueldo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04-2/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Departamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Empleado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Estudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Sueldo.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio06/src/main/java/prueba/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio06/src/main/java/prueba/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio05&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio04/src/main/java/prueba/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio04-2",
+    "onboarding.tips.debug.path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio04/src/main/java/prueba/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Usuarios\DAM2\IdeaProjects\PSP\Unidad02\Ejercicio04\src\main\resources" />

@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6e27b3-ce4f-4902-9118-3b838408d467" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Departamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Empleado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/EmpleadoEstudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/EmpleadoEstudioId.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Estudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/prueba/models/Sueldo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/src/main/java/prueba/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/src/main/java/prueba/models/Departamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/src/main/java/prueba/models/Empleado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/src/main/java/prueba/models/Estudio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio04/src/main/java/prueba/models/Sueldo.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio06/src/main/java/prueba/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio06/src/main/java/prueba/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio04/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Usuarios/DAM2/IdeaProjects/AD/Unidad02/Ejercicio05",
+    "last_opened_file_path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio05-2",
     "onboarding.tips.debug.path": "D:/Usuarios/DAM2/IdeaProjects/PSP/Unidad02/Ejercicio04-2/src/main/java/prueba/Main.java"
   }
 }]]></component>
