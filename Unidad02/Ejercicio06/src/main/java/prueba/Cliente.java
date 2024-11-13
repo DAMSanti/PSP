@@ -12,12 +12,15 @@ public class Cliente extends Thread {
     public void run() {
         try {
             for (int i = 1; i < 5; i++) {
+                if (cuenta.isSalir()) {
+                    break;
+                }
                 int cantidad = (int) (Math.random() * 500 + 1);
-            if (i % 2 == 0) {
-                cuenta.hacerReintegro(cantidad, nombre);
-            } else {
-                cuenta.hacerIngreso(cantidad, nombre);
-            }
+                if (i % 2 == 0) {
+                    cuenta.hacerReintegro(cantidad, nombre);
+                } else {
+                    cuenta.hacerIngreso(cantidad, nombre);
+                }
                 sleep(50);
             }
         } catch (InterruptedException e) {

@@ -6,6 +6,7 @@ public class Cuenta {
     public static final String ANSI_RESET = "\u001B[0m";
     private int saldo;
     private int maxSaldo;
+    private boolean salir = false;
 
     public Cuenta(int saldo, int maxSaldo) {
         this.saldo = saldo;
@@ -16,12 +17,12 @@ public class Cuenta {
         System.out.println("Saldo: " + saldo);
     }
 
-    public synchronized void hacerIngreso(int cantidad, String nombre) {
+    public synchronized boolean hacerIngreso(int cantidad, String nombre) {
         if (cantidad > 0) {
             if (saldo + cantidad > maxSaldo) {
                 System.out.println("Se intentan ingresar " + cantidad + "€");
                 System.out.println(ANSI_RED + "Error:" + ANSI_RESET + "Ingreso no válido, saldo excede el máximo permitido.");
-                System.exit(1);
+                salir = true;
             } else {
                 saldo += cantidad;
                 System.out.println("Se intentan ingresar " + cantidad + "€");
@@ -30,14 +31,15 @@ public class Cuenta {
         } else {
             System.out.println(ANSI_RED + "Error:" + ANSI_RESET + "Cantidad de ingreso no válida.");
         }
+        return salir;
     }
 
-    public synchronized void hacerReintegro(int cantidad, String nombre) {
+    public synchronized boolean hacerReintegro(int cantidad, String nombre) {
         if (cantidad > 0) {
             if (saldo - cantidad < 0) {
                 System.out.println("Se intentan reintegrar " + cantidad + "€");
                 System.out.println(ANSI_RED + "Error:" + ANSI_RESET + "Reintegro no válido, saldo insuficiente.");
-                System.exit(1);
+                salir = true;
             } else {
                 saldo -= cantidad;
                 System.out.println("Se intentan reintegrar " + cantidad + "€");
@@ -46,5 +48,10 @@ public class Cuenta {
         } else {
             System.out.println(ANSI_RED + "Error:" + ANSI_RESET + "Cantidad de reintegro no válida.");
         }
+        return salir;
+    }
+
+    public boolean isSalir() {
+        return salir;
     }
 }
