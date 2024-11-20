@@ -45,8 +45,9 @@ public class Gallina extends Thread {
     @Override
     public void run() {
         for (int dia = 0; dia < 365; dia++) {
+            int numGallina = random.nextInt(24);
             for (int hora = 0; hora < 24; hora++) {
-                if (random.nextInt(24) == hora) {
+                if (numGallina == hora) {
                     ponerHuevo();
                     System.out.println("Huevo puesto a las " + hora + " horas del día " + dia);
                 }

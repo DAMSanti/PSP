@@ -4,7 +4,7 @@ package prueba;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Cuenta cuenta = new Cuenta (0, 2000);
+        Cuenta cuenta = new Cuenta (0, 500);
 
         /* Thread cliente1 = new Thread(new Cliente(cuenta, "Cliente 1"));
         Thread cliente2 = new Thread(new Cliente(cuenta, "Cliente 2"));
